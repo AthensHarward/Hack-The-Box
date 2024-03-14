@@ -4,7 +4,7 @@ This repository contains my write-ups for various challenges on Hack The Box. Ea
 
 ## Dancing - SMB Exploitation
 
-- **File**: [Dancing-SMB-Exploitation](link-to-the-file)
+- **File**: [Dancing-SMB-Exploitation.md](Dancing-SMB-Exploitation.md)
 - **Key Concepts**: SMB protocol, port scanning, share enumeration, anonymous authentication, file exfiltration.
 
 
